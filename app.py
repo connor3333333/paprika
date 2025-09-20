@@ -351,7 +351,7 @@ if st.button("Reset"):
     st.session_state.temp_selection = {}
     st.session_state.finalized = False
     st.session_state.meal_plan = {}
-    st.experimental_rerun()
+    st.rerun()
 
 # with col2:
 st.write("## Choose meals (pick one per category)")
