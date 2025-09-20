@@ -434,14 +434,7 @@ if st.session_state.finalized and st.session_state.meal_plan:
             shopping_final[dept][name] = display_amount
 
     # Display shopping list grouped by department
-    st.header("Shopping List 🛒")
-    for dept, items in shopping_final.items():
-        st.subheader(dept)
-        for name, display_amount in items.items():
-            if display_amount:
-                st.write(f"- {name}: {display_amount}")
-            else:
-                st.write(f"- {name}")
+
 
     # Build HTML preview + download
     html_str = build_html(st.session_state.meal_plan, shopping_final)
