@@ -10,6 +10,13 @@ import streamlit.components.v1 as components
 
 st.set_page_config(page_title="Weekly Meal Planner", layout="centered")
 
+st.markdown("""
+    <style>
+        div.stButton > button {margin: 0 auto; display: block;}
+        div.stRadio > div {display: flex; justify-content: center;}
+    </style>
+""", unsafe_allow_html=True)
+
 # -------------------------
 # Utilities: amount parsing + consolidation
 # -------------------------
@@ -365,14 +372,14 @@ with col:
         # HTML preview + download
         html_str = build_html(st.session_state.meal_plan, shopping_final)
 
-        st.header("HTML Preview")
-        components.html(html_str, height=600, scrolling=True)
-
+        # st.header("HTML Preview")
+        # components.html(html_str, height=600, scrolling=True)
+        st.markdown("<div style='text-align:center'>", unsafe_allow_html=True)
         st.download_button(
             label="📥 Download Meal Plan (.html)",
             data=html_str,
             file_name="meal_plan.html",
             mime="text/html"
         )
+        st.markdown("</div>", unsafe_allow_html=True)
 
-        st.caption("Tip: open the downloaded HTML and use your browser's Print → Save as PDF to create a PDF.")
