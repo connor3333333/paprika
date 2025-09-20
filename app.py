@@ -11,26 +11,66 @@ import streamlit.components.v1 as components
 st.set_page_config(page_title="Weekly Meal Planner", layout="centered")
 
 # Center everything with CSS
+# st.markdown(
+#     """
+#     <style>
+#     .block-container {
+#         max-width: 800px;
+#         margin: 0 auto;
+#         text-align: center;
+#     }
+#     .stButton>button {
+#         display: inline-block;
+#         margin: 0 auto;
+#     }
+#     .stRadio label {
+#         justify-content: center;
+#     }
+#     </style>
+#     """,
+#     unsafe_allow_html=True
+# )
+
 st.markdown(
     """
     <style>
+    /* Center the main container */
     .block-container {
         max-width: 800px;
-        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
         text-align: center;
     }
+
+    /* Center buttons */
     .stButton>button {
-        display: inline-block;
-        margin: 0 auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
-    .stRadio label {
-        justify-content: center;
+
+    /* Center radio buttons */
+    .stRadio div[role="radiogroup"] {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* Center columns content */
+    .stColumns [class*="css"] > div {
+        text-align: center !important;
+    }
+
+    /* Optional: center download button */
+    .stDownloadButton>button {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
     </style>
     """,
     unsafe_allow_html=True
 )
-
 
 # -------------------------
 # Utilities: amount parsing + consolidation
