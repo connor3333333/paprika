@@ -12,10 +12,19 @@ st.set_page_config(page_title="Weekly Meal Planner", layout="centered")
 
 st.markdown("""
     <style>
-        div.stButton > button {margin: 0 auto; display: block;}
-        div.stRadio > div {display: flex; justify-content: center;}
+    /* Make all buttons full width */
+    div.stButton > button {
+        width: 100%;
+        display: block;
+    }
+    /* Optional: center radio options horizontally */
+    div.stRadio > div {
+        display: flex;
+        justify-content: center;
+    }
     </style>
 """, unsafe_allow_html=True)
+
 
 # -------------------------
 # Utilities: amount parsing + consolidation
@@ -293,12 +302,12 @@ with col:
                 st.session_state.options[day] = pool[:]
         st.success("Generated choices for each day. Pick one for each day below.")
 
-    if st.button("Reset"):
-        st.session_state.options = {}
-        st.session_state.temp_selection = {}
-        st.session_state.finalized = False
-        st.session_state.meal_plan = {}
-        st.rerun()
+    # if st.button("Reset"):
+    #     st.session_state.options = {}
+    #     st.session_state.temp_selection = {}
+    #     st.session_state.finalized = False
+    #     st.session_state.meal_plan = {}
+    #     st.rerun()
 
     st.write("## Choose meals (pick one per category)")
     if not st.session_state.options:
@@ -374,12 +383,18 @@ with col:
 
         # st.header("HTML Preview")
         # components.html(html_str, height=600, scrolling=True)
-        st.markdown("<div style='text-align:center'>", unsafe_allow_html=True)
+        # Add some vertical space
+        st.markdown("<div style='margin-top: 20px; width:100%; display:flex; justify-content:center;'>", unsafe_allow_html=True)
+
+        # Full-width, centered download button
         st.download_button(
             label="📥 Download Meal Plan (.html)",
             data=html_str,
             file_name="meal_plan.html",
-            mime="text/html"
+            mime="text/html",
+            use_container_width=True
         )
+
         st.markdown("</div>", unsafe_allow_html=True)
+
 
