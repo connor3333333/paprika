@@ -1,0 +1,2190 @@
+[
+  {
+    "title": "Pastina",
+    "category": "Wednesday",
+    "prep_time": null,
+    "cook_time": null,
+    "servings": "(Scaled 1/2x)",
+    "ingredients": [
+      {
+        "name": "vegetable broth",
+        "amount": "3/4 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "chicken broth",
+        "amount": "3/4 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "pastina pasta",
+        "amount": "1/4 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "eggs",
+        "amount": "1 large",
+        "department": "Dairy"
+      },
+      {
+        "name": "parmesan cheese",
+        "amount": "1/8 cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "pecorino cheese",
+        "amount": "1/8 cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "unsalted butter",
+        "amount": "2 tablespoons",
+        "department": "Dairy"
+      }
+    ],
+    "directions": [
+      "In a medium saucepan, bring the broth to a boil. Stir in the pastina and cook until al dente according to the package directions.",
+      "When the pasta is ready and has absorbed the broth, remove the pan from the heat. Crack the eggs into the pan, stirring quickly to incorporate them, then add the Parmesan and butter. Stir until the butter is completely melted.",
+      "Transfer the pastina to a bowl and top with more Parmesan and a few grinds of pepper. Eat up and watch all your troubles float away."
+    ],
+    "notes": [],
+    "nutrition": {},
+    "source": "https://cupofjo.com/2023/09/13/bad-day-heres-a-bowl-of-pastina-for-you/"
+  },
+  {
+    "title": "Giant Roasted Vegetable Platter",
+    "category": "Tuesday",
+    "prep_time": "15 min",
+    "cook_time": "45 min",
+    "servings": "8 to 12 servings",
+    "ingredients": [
+      {
+        "name": "cauliflower",
+        "amount": "1 (1½-pound) head",
+        "department": "Produce"
+      },
+      {
+        "name": "winter squash",
+        "amount": "1¼ to 1½ pounds",
+        "department": "Produce"
+      },
+      {
+        "name": "broccolini",
+        "amount": "1 pound",
+        "department": "Produce"
+      },
+      {
+        "name": "carrots",
+        "amount": "1 pound",
+        "department": "Produce"
+      },
+      {
+        "name": "fennel bulb",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "red onion",
+        "amount": "1 large",
+        "department": "Produce"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "amount": "for drizzling",
+        "department": "Pantry"
+      },
+      {
+        "name": "whole-milk yogurt",
+        "amount": "½ cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "garlic",
+        "amount": "1 clove",
+        "department": "Produce"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "2 teaspoons",
+        "department": "Produce"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amount": "for drizzling",
+        "department": "Pantry"
+      },
+      {
+        "name": "hot honey",
+        "amount": "for drizzling",
+        "department": "Pantry"
+      },
+      {
+        "name": "pomegranate seeds",
+        "amount": "for sprinkling",
+        "department": "Produce"
+      },
+      {
+        "name": "cilantro",
+        "amount": "1 cup chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "mint",
+        "amount": "1 cup chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "parsley",
+        "amount": "1 cup chopped",
+        "department": "Produce"
+      }
+    ],
+    "directions": [
+      "Heat oven to 425 degrees. Line 3 large rimmed sheet pans with parchment paper. Lay vegetables out on the pans, keeping the same kinds together. Drizzle vegetables with olive oil, and sprinkle generously with salt. Roast vegetables until tender and golden, flipping them halfway, and using a wide spatula or tongs to remove them from the pans as they are done. The timing will look like this: broccolini, 10 to 15 minutes; red onions, 15 to 20; fennel, 20 to 25; cauliflower, 25 to 35; squash, 30 to 35; carrots, 30 to 40.",
+      "While the vegetables are roasting, put yogurt in a small bowl. Whisk in grated garlic, lemon juice and ½ teaspoon salt. Taste for seasoning, and add more lemon juice and salt as needed.",
+      "Arrange the roasted vegetables artfully on a platter. Top with dollops of garlicky yogurt. Drizzle with more olive oil, apple cider vinegar and hot honey. Sprinkle with cumin seeds or sesame seeds, pomegranate seeds and chopped cilantro. Serve warm or at room temperature."
+    ],
+    "notes": [],
+    "nutrition": {
+      "Trans Fat": "0 grams",
+      "Fat": "5 grams",
+      "Calories": "127",
+      "Saturated Fat": "1 gram",
+      "Unsaturated Fat": "4 grams",
+      "Sodium": "205 milligrams",
+      "Sugar": "8 grams",
+      "Fiber": "6 grams",
+      "Carbohydrate": "20 grams",
+      "Protein": "5 grams"
+    },
+    "source": "https://cooking.nytimes.com/recipes/1026236-giant-roasted-vegetable-platter"
+  },
+  {
+    "title": "Fried Rice",
+    "category": "Thursday",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes",
+    "servings": "Yield: 4 -6 servings",
+    "ingredients": [
+      {
+        "name": "butter",
+        "amount": "3 tablespoons",
+        "department": "Dairy"
+      },
+      {
+        "name": "eggs",
+        "amount": "2 large",
+        "department": "Dairy"
+      },
+      {
+        "name": "carrots",
+        "amount": "2 medium",
+        "department": "Produce"
+      },
+      {
+        "name": "white onion",
+        "amount": "1 small",
+        "department": "Produce"
+      },
+      {
+        "name": "frozen peas",
+        "amount": "1/2 cup",
+        "department": "Frozen"
+      },
+      {
+        "name": "garlic",
+        "amount": "3 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "cooked rice",
+        "amount": "4 cups",
+        "department": "Pantry"
+      },
+      {
+        "name": "green onions",
+        "amount": "3",
+        "department": "Produce"
+      },
+      {
+        "name": "soy sauce",
+        "amount": "3–4 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "oyster sauce",
+        "amount": "2 teaspoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "toasted sesame oil",
+        "amount": "1/2 teaspoons",
+        "department": "Pantry"
+      }
+    ],
+    "directions": [
+      "Heat 1/2 tablespoon of butter in a large sauté pan* over medium-high heat until melted. Add egg, and cook until scrambled, stirring occasionally. Remove egg, and transfer to a separate plate.",
+      "Add an additional 1 tablespoon butter to the pan and heat until melted. Add carrots, onion, peas and garlic, and season with a generous pinch of salt and pepper. Sauté for about 5 minutes or until the onion and carrots are soft. Increase heat to high, add in the remaining 1 1/2 tablespoons of butter, and stir until melted. Immediately add the rice, green onions, soy sauce and oyster sauce (if using), and stir until combined. Continue sautéing for an additional 3 minutes to fry the rice, stirring occasionally. (I like to let the rice rest for a bit between stirs so that it can crisp up on the bottom.) Then add in the eggs and stir to combine. Remove from heat, and stir in the sesame oil until combined. Taste and season with extra soy sauce, if needed.",
+      "Serve immediately, or refrigerate in a sealed container for up to 3 days."
+    ],
+    "notes": [],
+    "nutrition": {},
+    "source": "https://www.gimmesomeoven.com/fried-rice-recipe/"
+  },
+  {
+    "title": "Chicken Shwarma Sheet Pan",
+    "category": "Sunday Meal Prep",
+    "prep_time": "10 mins",
+    "cook_time": "33 mins",
+    "servings": "Yield: 4 servings",
+    "ingredients": [
+      {
+        "name": "boneless skinless chicken thighs",
+        "amount": "1 ½ pounds",
+        "department": "Meat"
+      },
+      {
+        "name": "red onion",
+        "amount": "1 small",
+        "department": "Produce"
+      },
+      {
+        "name": "red bell pepper",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "carrots",
+        "amount": "2",
+        "department": "Produce"
+      },
+      {
+        "name": "chickpeas",
+        "amount": "15 ounce can",
+        "department": "Pantry"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": "1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "tzatziki",
+        "amount": "for serving",
+        "department": "Dairy"
+      }
+    ],
+    "directions": [
+      "Preheat the oven to 425° F.",
+      "Add the chicken, veggies and chickpeas to a large mixing bowl. Drizzle with the olive oil and season with the spices and salt. Mix to evenly combine. Transfer the entire mixture onto a rimmed baking sheet and spread into an even layer.",
+      "Transfer the baking sheet to the oven and roast for 30-35 minutes, until the chicken is cooked through and the vegetables are tender. Broil for the last 2 minutes for an extra char if desired.",
+      "Remove from the oven. Serve with tzatziki or white sauce, if desired."
+    ],
+    "notes": [],
+    "nutrition": {
+      "Serving": "1½ cups, Calories: 370.5kcal, Carbohydrates: 23.5g, Protein: 40g, Fat: 13g, Saturated Fat: 2.5g, Cholesterol: 160mg, Sodium: 903mg, Fiber: 7.5g, Sugar: 8g"
+    },
+    "source": "https://www.skinnytaste.com/wprm_print/chicken-shawarma-sheet-pan-dinner"
+  },
+  {
+    "title": "Vegan Sloppy Joes",
+    "category": "Thursday",
+    "prep_time": "5 minutes",
+    "cook_time": "25 minutes",
+    "servings": "Serving: 1",
+    "ingredients": [
+      {
+        "name": "vegetable broth",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "green lentils",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "red lentils",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "olive oil",
+        "amount": "2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "white onion",
+        "amount": "1/2 medium",
+        "department": "Produce"
+      },
+      {
+        "name": "yellow onion",
+        "amount": "1/2 medium",
+        "department": "Produce"
+      },
+      {
+        "name": "garlic",
+        "amount": "2 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "red bell pepper",
+        "amount": "1/2 medium",
+        "department": "Produce"
+      },
+      {
+        "name": "green bell pepper",
+        "amount": "1/2 medium",
+        "department": "Produce"
+      },
+      {
+        "name": "tomato sauce",
+        "amount": "1 (15-ounce) can",
+        "department": "Pantry"
+      },
+      {
+        "name": "coconut sugar",
+        "amount": "1-2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "brown sugar",
+        "amount": "1-2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "vegan worcestershire sauce",
+        "amount": "1-2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "hamburger buns",
+        "amount": "for serving",
+        "department": "Bakery"
+      }
+    ],
+    "directions": [
+      "If using green lentils: To a small saucepan, add liquid (I used 1 cup water, 1 cup vegetable broth for added flavor // amount as original recipe is written // adjust if altering batch size) and rinsed green lentils and heat over medium-high heat. Bring to a low boil, then reduce heat to a simmer and cook covered for about 18-22 minutes, or until tender. The water should have a constant simmer (not boil). Drain off any excess liquid and set aside.",
+      "If using red lentils: To a small saucepan, add liquid (water and/or vegetable broth) and bring to a boil over high heat. Once boiling, add rinsed red lentils and bring back to a gentle boil. Reduce heat to a simmer and cook uncovered, stirring occasionally, for 7-10 minutes, or until just tender. You want them to be cooked through but not mushy. Drain well and set aside.",
+      "In the meantime, heat a large skillet over medium heat. Once hot, add oil, onion, garlic, and bell pepper. Season with a pinch each salt and pepper and stir to combine.",
+      "Sautè for 4-5 minutes, stirring frequently, or until the peppers and onions are tender and slightly browned.",
+      "Next add tomato sauce, coconut sugar, vegan worcestershire sauce, chili powder, cumin, and paprika (optional). Stir to combine.",
+      "Once the lentils are cooked, add them to the skillet as well, and stir to combine.",
+      "Continue cooking the mixture over medium-low heat until completely warmed through and thick, stirring occasionally – about 5-10 minutes.",
+      "Taste and adjust flavor as needed, adding more chili powder and/or cumin for smokiness, salt for saltiness, coconut sugar for sweetness, or worcestershire for depth of flavor.",
+      "Serve the mixture on toasted buns with sliced onion. Best when fresh, though leftover sloppy joe mixture will keep in the refrigerator up to 4-5 days, or in the freezer for 1 month. Reheat in the microwave, or on the stovetop, adding water or vegetable broth if the mixture has dried out."
+    ],
+    "notes": [
+      "*The tomato sauce I use is from Trader Joe's and is essentially tomato puree seasoned with sea salt, pepper, garlic powder, and herbs.",
+      "*If you can't locate vegan Worcestershire sauce at the store, try this recipe from Forks Over Knives.",
+      "*My go-to whole-wheat vegan hamburger buns are from Trader Joe's. For gluten-free, try our Homemade Vegan Gluten-Free Hamburger Buns or if you do/can eat eggs, Udi's Gluten Free Hamburger Buns are another option.",
+      "*Nutrition information is a rough estimate calculated without a bun."
+    ],
+    "nutrition": {
+      "Calories": "298",
+      "Carbohydrates": "44.6 g",
+      "Protein": "14.4 g",
+      "Fat": "8 g",
+      "Saturated Fat": "1.1 g",
+      "Trans Fat": "0 g",
+      "Cholesterol": "0 mg",
+      "Sodium": "614 mg",
+      "Fiber": "17.1 g",
+      "Sugar": "13.5 g"
+    },
+    "source": "https://minimalistbaker.com/vegan-sloppy-joes/"
+  },
+  {
+    "title": "Italian Wedding Soup",
+    "category": "Sunday Meal Prep",
+    "prep_time": "30 mins",
+    "cook_time": "30 mins",
+    "servings": "6",
+    "ingredients": [
+      {
+        "name": "plain breadcrumbs",
+        "amount": "1/4 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "grated parmesan",
+        "amount": "1/4 cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "ground italian sausage",
+        "amount": "1 lb",
+        "department": "Meat"
+      },
+      {
+        "name": "eggs",
+        "amount": "1 large",
+        "department": "Dairy"
+      },
+      {
+        "name": "yellow onion",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "garlic",
+        "amount": "2 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "carrots",
+        "amount": "3",
+        "department": "Produce"
+      },
+      {
+        "name": "celery",
+        "amount": "3 stalks",
+        "department": "Produce"
+      },
+      {
+        "name": "olive oil",
+        "amount": "2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "chicken broth",
+        "amount": "6 cups",
+        "department": "Pantry"
+      },
+      {
+        "name": "small pasta",
+        "amount": "1/2 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "fresh spinach",
+        "amount": "4 cups",
+        "department": "Produce"
+      }
+    ],
+    "directions": [
+      "Begin by making the meatballs. Combine the breadcrumbs, Parmesan, Italian seasoning, salt, and pepper in a bowl.",
+      "Add the Italian sausage, breadcrumb mixture, and egg to a large bowl and use your hands to mix them together until evenly combined. Divide and shape the mixture into 32 small meatballs, about 1 Tbsp each. Set the meatballs aside.",
+      "Finely dice the onion, carrots, and celery, and mince the garlic. Add the olive oil to a large soup pot and heat over medium. Add the onion and garlic and sauté until the onion is soft. Add the carrot and celery and continue to sauté for a few minutes more, or until the celery begins to soften.",
+      "Add the Italian seasoning and chicken broth to the soup, stir to combine, then place a lid on top and bring it up to a boil.",
+      "Once the soup is boiling, add the meatballs to the soup and continue to boil until the meatballs are cooked through (about 10 minutes). Or, if you prefer browned meatballs, you can cook them in a skillet with butter first over medium heat until browned on the outside, then transfer to the boiling soup to finish cooking.",
+      "Add the pasta to the soup and continue to boil until the pasta is tender (about 7 minutes).",
+      "Finally, stir in the fresh spinach until wilted. Give the soup a taste and adjust the seasonings to your liking. Serve hot and enjoy!"
+    ],
+    "notes": [],
+    "nutrition": {
+      "Calories": "448 kcal",
+      "Carbohydrates": "23 g",
+      "Protein": "18 g",
+      "Fat": "31 g",
+      "Sodium": "1646 mg",
+      "Fiber": "3 g"
+    },
+    "source": "https://www.budgetbytes.com/italian-wedding-soup/"
+  },
+  {
+    "title": "Burst Cherry Tomato Pasta",
+    "category": "Wednesday",
+    "prep_time": null,
+    "cook_time": null,
+    "servings": "4 servings",
+    "ingredients": [
+      {
+        "name": "extra-virgin olive oil",
+        "amount": "½ cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "garlic",
+        "amount": "6 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "cherry tomatoes",
+        "amount": "4 pints",
+        "department": "Produce"
+      },
+      {
+        "name": "basil",
+        "amount": "2 large sprigs plus 1 cup leaves",
+        "department": "Produce"
+      },
+      {
+        "name": "campanelle pasta",
+        "amount": "12 oz",
+        "department": "Pantry"
+      },
+      {
+        "name": "finely grated parmesan",
+        "amount": "1 oz",
+        "department": "Dairy"
+      }
+    ],
+    "directions": [
+      "Heat ½ cup oil in a large heavy pot over low. Add garlic and cook, stirring, until softened and fragrant but not browned, about 2 minutes. Increase heat to medium and add tomatoes, red pepper flakes, basil sprigs, and 1½ tsp. salt. Cook, stirring to coat, until tomatoes begin to burst, about 4 minutes. Smash some but not all of the tomatoes with the back of a wooden spoon to help create a sauce, then continue to cook, stirring occasionally, until a chunky, thickened sauce comes together and about half the tomatoes are completely broken down and half remain in tact, 10–12 minutes. Taste and adjust seasoning, adding sugar if sauce seems tart. Pluck out and discard basil sprigs.",
+      "Meanwhile, cook pasta in a large pot of boiling salted water, stirring occasionally, until al dente. Drain pasta, add to pot with sauce, and cook over medium heat, stirring, until coated, 1–2 minutes. Remove from heat and stir in 1 oz. Parmesan.",
+      "Divide pasta among bowls. Top with more Parmesan and 1 cup basil leaves. Drizzle with oil."
+    ],
+    "notes": [],
+    "nutrition": {},
+    "source": "https://www.bonappetit.com/recipe/burst-cherry-tomato-pasta"
+  },
+  {
+    "title": "Mango Coconut Tofu Bowls",
+    "category": "Monday",
+    "prep_time": "30 mins",
+    "cook_time": "30 mins",
+    "servings": "Serving: 1 serving",
+    "ingredients": [
+      {
+        "name": "jasmine rice",
+        "amount": "1.5 cups uncooked",
+        "department": "Pantry"
+      },
+      {
+        "name": "basmati rice",
+        "amount": "1.5 cups uncooked",
+        "department": "Pantry"
+      },
+      {
+        "name": "garlic",
+        "amount": "1 clove",
+        "department": "Produce"
+      },
+      {
+        "name": "coconut milk",
+        "amount": "1 13.5oz can",
+        "department": "Pantry"
+      },
+      {
+        "name": "lime",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "honey",
+        "amount": "1/4 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "soy sauce",
+        "amount": "1/2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "corn starch",
+        "amount": "1 tsp plus 2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "extra firm tofu",
+        "amount": "1 14oz package",
+        "department": "Produce"
+      },
+      {
+        "name": "neutral oil",
+        "amount": "2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "mango",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "avocado",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "green onions",
+        "amount": "2-3",
+        "department": "Produce"
+      },
+      {
+        "name": "fresh cilantro",
+        "amount": "1 handful",
+        "department": "Produce"
+      }
+    ],
+    "directions": [
+      "Begin by pressing the tofu. Remove the tofu from the package, draining away all moisture. Wrap the tofu in a clean, lint-free dish towel or a few layers of paper towel. Place the wrapped tofu between two plates and place something heavy on top (cast iron pan or pot full of water). Let the tofu press for at least 30 minutes.",
+      "To make the Savory Coconut Rice, combine the uncooked rice, minced garlic, salt, coconut milk, and water in a medium pot. Place a lid on the pot and bring to a boil over high heat. Once it reaches a boil, turn the heat down to low and let simmer for 20 minutes. Turn the heat off and let the pot sit, undisturbed, for 10 more minutes. Fluff the rice with a fork and set aside.",
+      "While the rice is cooking, prepare the honey lime glaze. Use a zester, microplane, or small-holed cheese grater to remove the thin layer of green zest from the lime. Squeeze the juice from the lime into a separate bowl (you'll need about 1/4 cup juice). Combine the juice with 1/2 tsp of the zest, honey, soy sauce, and corn starch in a bowl. Stir until the corn starch and honey are dissolved.",
+      "After the tofu has been pressed, cut it into 1/2 inch cubes. Blot with a paper towel if needed to make sure the surface is dry. Season the tofu with a pinch of salt. Sprinkle the corn starch over top and gently toss until all the pieces are well coated.",
+      "Heat the oil in a large skillet over medium heat until the oil is shimmering. Add the tofu and fry on until golden brown on each side (about 3 minutes each side). Remove the fried tofu from the pan and turn the heat down to low. While the tofu fries, cut the mango into cubes.",
+      "Give the prepared glaze a quick stir, then add it to the skillet. Allow the glaze to begin to simmer, at which point it will thicken. Once thickened, turn the heat off and add the fried tofu and cubed mango. Toss to coat in the glaze.",
+      "To build the bowls, place about one cup of the savory coconut rice in the bottom of each bowl, then top with a scoop of the mango and tofu. Add sliced green onions, sliced avocado, a pinch of red pepper flakes, and a few sprigs of cilantro on top of each bowl."
+    ],
+    "notes": [],
+    "nutrition": {
+      "Calories": "655.73 kcal",
+      "Carbohydrates": "101.45 g",
+      "Protein": "17.25 g",
+      "Fat": "21.85 g",
+      "Sodium": "704.25 mg",
+      "Fiber": "8.15 g"
+    },
+    "source": "https://www.budgetbytes.com/mango-coconut-tofu-bowls/"
+  },
+  {
+    "title": "Thai Coconut Soup with Tofu and Rice",
+    "category": "Monday",
+    "prep_time": null,
+    "cook_time": "1 hour",
+    "servings": "Yield: 5–6 servings",
+    "ingredients": [
+      {
+        "name": "oil",
+        "amount": "1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "garlic",
+        "amount": "5 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "ginger",
+        "amount": "3-inch piece",
+        "department": "Produce"
+      },
+      {
+        "name": "lemongrass",
+        "amount": "3 stalks",
+        "department": "Produce"
+      },
+      {
+        "name": "roasted red chili paste",
+        "amount": "1–2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "fresh mushrooms",
+        "amount": "8 ounces",
+        "department": "Produce"
+      },
+      {
+        "name": "red bell pepper",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "extra firm tofu",
+        "amount": "1 block",
+        "department": "Produce"
+      },
+      {
+        "name": "vegetable broth",
+        "amount": "5–6 cups",
+        "department": "Pantry"
+      },
+      {
+        "name": "chicken broth",
+        "amount": "5–6 cups",
+        "department": "Pantry"
+      },
+      {
+        "name": "full fat coconut milk",
+        "amount": "about 20 ounces",
+        "department": "Pantry"
+      },
+      {
+        "name": "fish sauce",
+        "amount": "3 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "brown sugar",
+        "amount": "3 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "lime",
+        "amount": "1-2",
+        "department": "Produce"
+      },
+      {
+        "name": "cilantro",
+        "amount": "lots",
+        "department": "Produce"
+      },
+      {
+        "name": "chili oil",
+        "amount": "for serving",
+        "department": "Pantry"
+      },
+      {
+        "name": "rice",
+        "amount": "for serving",
+        "department": "Pantry"
+      }
+    ],
+    "directions": [
+      "Heat the oil in a soup pot over medium heat. Add the garlic, ginger, and lemongrass; sauté for 3-5 minutes (but don't let the garlic brown – if it starts browning, remove from heat / turn the heat down).",
+      "When everything is soft-ish and smells really nice, add the roasted red chili paste and sauté for 1-2 minutes. Add the mushrooms and red pepper (and any other veggies you like). Sauté for 3-5 minutes to get them sweating a bit, and then add the tofu and broth and bring to a simmer. Simmer for 10-15 minutes.",
+      "Add coconut milk, fish sauce, brown sugar, lime juice and zest, and salt. Stir in the cilantro. Taste and adjust till you get it just how you like it. Pull out the lemongrass chunks.",
+      "I like to ladle the soup over a shallow bowl filled halfway with rice – so the soup kind of goes on one side and the rice on the other, with the coconuty broth spilling over into the rice a bit. Top it off with extra cilantro and chili oil. SO, SO GOOD."
+    ],
+    "notes": [],
+    "nutrition": {},
+    "source": "https://pinchofyum.com/thai-coconut-soup-with-tofu-and-rice"
+  },
+  {
+    "title": "Bean and Vegetable Burritos",
+    "category": "Sunday",
+    "prep_time": null,
+    "cook_time": "45 minutes",
+    "servings": "Servings: 8 burritos",
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "onion",
+        "amount": "1 medium",
+        "department": "Produce"
+      },
+      {
+        "name": "garlic",
+        "amount": "2 large cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "jalapeño pepper",
+        "amount": "1 fresh",
+        "department": "Produce"
+      },
+      {
+        "name": "habanero pepper",
+        "amount": "1 fresh",
+        "department": "Produce"
+      },
+      {
+        "name": "bell pepper",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "tomato paste",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "diced tomatoes",
+        "amount": "1 (14-ounce) can",
+        "department": "Pantry"
+      },
+      {
+        "name": "black beans",
+        "amount": "2 (15.5-ounces) cans",
+        "department": "Pantry"
+      },
+      {
+        "name": "red beans",
+        "amount": "2 (15.5-ounces) cans",
+        "department": "Pantry"
+      },
+      {
+        "name": "pinto beans",
+        "amount": "2 (15.5-ounces) cans",
+        "department": "Pantry"
+      },
+      {
+        "name": "corn kernels",
+        "amount": "1 1/2 cups",
+        "department": "Frozen"
+      },
+      {
+        "name": "baby spinach",
+        "amount": "5 ounces",
+        "department": "Produce"
+      },
+      {
+        "name": "lime",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "cotija cheese",
+        "amount": "1 cup crumbled",
+        "department": "Dairy"
+      },
+      {
+        "name": "monterey jack cheese",
+        "amount": "8 ounces grated",
+        "department": "Dairy"
+      },
+      {
+        "name": "pepper jack cheese",
+        "amount": "8 ounces grated",
+        "department": "Dairy"
+      },
+      {
+        "name": "flour tortillas",
+        "amount": "8 large burrito-sized",
+        "department": "Bakery"
+      },
+      {
+        "name": "hot sauce",
+        "amount": "to taste",
+        "department": "Pantry"
+      }
+    ],
+    "directions": [
+      "Make the filling: Heat your largest skillet or sauté pan over medium-high heat. Once hot, add oil, and once the oil is hot, add the onion, garlic, jalapeño, and bell pepper and cook until the the ingredients begin to soften, 3 to 4 minutes. Add the cumin, smaller amount of chili powder, and tomato paste, and cook for 1 minute. Add diced tomatoes and let simmer for 1 minute, then add the beans and simmer for 2 to 3 minutes. Taste the mixture and add salt; I find I need between 2 to 3 teaspoons kosher salt to get the level right but adjust it to your taste. Add last 1 teaspoon chili powder if needed for your desired heat level. Add the corn and spinach and stir until the spinach has wilted and everything is warm. Taste for seasoning again and adjust as needed.",
+      "Remove from heat and squeeze the juice of half the lime over the mixture, then the second half if you like more. Let cool slightly while you get ready to assemble your burritos.",
+      "Assemble your burritos: If your tortillas are unbendy from the package, you can warm them briefly in a dry skillet or for 15 seconds in the microwave to soften them. If they seem dry, I might spritz them lightly with water before warming.",
+      "Arrange first tortilla on counter and spoon about 3/4 cup of the filling in the lower third, closest to you. Sprinkle with 1/4 cup jack cheese and 2 tablespoons cotija. (If you like to make some burritos spicier than others, you can shake hot sauce on at this point.) Fold the bottom of the tortilla over the filling, fold in the sides, and roll it up, setting it to cool seam side-down. Repeat with remaining tortillas, filling, and cheese.",
+      "To eat right away: Go for it! but I love to brown it in a pan on both sides for some added texture and to ensure the cheese gets melty. Heat a skillet with a thin layer of oil over medium heat and add burritos you're ready to eat. Cook until browned and crisp on both sides and dig in.",
+      "To freeze for later: Wrap burritos individually in foil (best for oven reheating) or plastic and pack in a freezer bag with all air pressed out. Burritos keep in the freezer a few months, or for as long as your freezer allows them to without imparting a 'freezery' taste.",
+      "To reheat from frozen in an oven: Heat oven to 375°F. Heat foil-wrapped burrito for 40 to 50 minutes. To check for warmth, stick a toothpick or skewer into the center of a burrito and keep it there for 10 seconds. If the toothpick is warm when it's remove, the burrito is too. If not, give it more time.",
+      "To reheat from frozen in a microwave: Unwrap burrito and microwave on a plate for 3 to 5 minutes, turning over once midway. To check for warmth, stick a toothpick or skewer into the center of a burrito and keep it there for 10 seconds. If the toothpick is warm when it's remove, the burrito is too. If not, give it more time.",
+      "Both methods: For that extra crisp once warmed, follow the skillet instructions under 'To eat right away' above."
+    ],
+    "notes": [
+      "Chili powders tend to range a lot in heat level so give it a taste before you start to make sure you're not surprised after adding the first 2 teaspoons.",
+      "Depending on the size of my tortillas, I sometimes end up with 1 to 1.5 cups extra filling. You can use it to make more burritos or just heat it up with extra cheese and put an egg on top, and I did with delight last week."
+    ],
+    "nutrition": {},
+    "source": "https://smittenkitchen.com/2023/03/bean-and-vegetable-burritos/"
+  },
+  {
+    "title": "Pasta with Spicy Sausage, Broccoli Rabe and Chickpeas",
+    "category": "Wednesday",
+    "prep_time": null,
+    "cook_time": "30 minutes",
+    "servings": "4 to 6 servings",
+    "ingredients": [
+      {
+        "name": "broccoli rabe",
+        "amount": "1 1/2 pounds",
+        "department": "Produce"
+      },
+      {
+        "name": "broccoli",
+        "amount": "1 1/2 pounds",
+        "department": "Produce"
+      },
+      {
+        "name": "kale",
+        "amount": "1 1/2 pounds",
+        "department": "Produce"
+      },
+      {
+        "name": "escarole",
+        "amount": "1 1/2 pounds",
+        "department": "Produce"
+      },
+      {
+        "name": "shaped pasta",
+        "amount": "1 pound",
+        "department": "Pantry"
+      },
+      {
+        "name": "olive oil",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "hot italian sausage",
+        "amount": "1 pound",
+        "department": "Meat"
+      },
+      {
+        "name": "sweet italian sausage",
+        "amount": "1 pound",
+        "department": "Meat"
+      },
+      {
+        "name": "ground pork",
+        "amount": "1 pound",
+        "department": "Meat"
+      },
+      {
+        "name": "ground turkey",
+        "amount": "1 pound",
+        "department": "Meat"
+      },
+      {
+        "name": "garlic",
+        "amount": "3 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "dry white wine",
+        "amount": "1/2 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "chicken stock",
+        "amount": "1/2 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "chickpeas",
+        "amount": "1 (15-ounce) can",
+        "department": "Pantry"
+      },
+      {
+        "name": "white beans",
+        "amount": "1 (15-ounce) can",
+        "department": "Pantry"
+      },
+      {
+        "name": "unsalted butter",
+        "amount": "2 tablespoons",
+        "department": "Dairy"
+      },
+      {
+        "name": "grated parmesan",
+        "amount": "1/2 cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "pecorino",
+        "amount": "1/2 cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "lemon",
+        "amount": "1",
+        "department": "Produce"
+      }
+    ],
+    "directions": [
+      "Bring a large pot of salted water to a boil. Roughly chop the broccoli rabe, add it to the pot, and cook for 3 minutes. Use a sieve or slotted spoon to lift the broccoli rabe from the water and place it in a colander to drain.",
+      "Bring the water back to a boil. Cook the pasta according to package instructions until al dente, reserve 1 cup pasta water, then drain pasta.",
+      "Meanwhile, in a large Dutch oven or deep, 12-inch skillet, heat the olive oil over medium-high. Add the sausage and cook, breaking it up with a wooden spoon, until browned, 3 to 5 minutes. (Don't worry if the sausage is not completely cooked through.) Add the garlic and cook for 30 seconds.",
+      "Add the wine and cook, scraping any bits from the bottom of the pan, until the wine is reduced by half, about 1 minute.",
+      "Add the broccoli rabe, chickpeas, 1 teaspoon salt and 1/2 teaspoon pepper to the skillet and cook over medium heat, stirring often, until the sausage is cooked through and the broccoli rabe is very tender, about 3 minutes.",
+      "Add the pasta and 1/2 cup of the reserved pasta water, toss well, and cook over low heat until the sauce comes together, about 1 to 2 minutes. Add additional pasta water, a few tablespoons at a time, if needed for moisture.",
+      "Remove the pan from the heat, add the butter, Parmesan, lemon zest and lemon juice, and toss until the butter is melted. Divide pasta among shallow bowls and top with additional cheese sprinkled on top."
+    ],
+    "notes": [],
+    "nutrition": {},
+    "source": "https://cooking.nytimes.com/recipes/1020968-pasta-with-spicy-sausage-broccoli-rabe-and-chickpeas"
+  },
+  {
+    "title": "Homemade Pizza Crust for Beginners",
+    "category": "Thursday",
+    "prep_time": "2 hours",
+    "cook_time": "15 minutes",
+    "servings": "Yield: 2 12-inch pizzas",
+    "ingredients": [
+      {
+        "name": "instant yeast",
+        "amount": "2 and 1/4 teaspoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "granulated sugar",
+        "amount": "1 Tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "olive oil",
+        "amount": "2 Tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "all-purpose flour",
+        "amount": "3 and 1/2 cups",
+        "department": "Pantry"
+      },
+      {
+        "name": "cornmeal",
+        "amount": "sprinkle",
+        "department": "Pantry"
+      }
+    ],
+    "directions": [
+      "Prepare the dough: Whisk the warm water, yeast, and granulated sugar together in the bowl of your stand mixer fitted with a dough hook or paddle attachment. Cover and allow to rest for 5 minutes.",
+      "Add the olive oil, salt, and flour. Beat on low speed for 2 minutes. Turn the dough out onto a lightly floured surface. With lightly floured hands, knead the dough for 3-4 minutes (for a visual, watch me do it in the video above!). The dough can be a little too heavy for a mixer to knead it, but you can certainly use the mixer on low speed instead. After kneading, the dough should still feel a little soft. Poke it with your finger – if it slowly bounces back, your dough is ready to rise. If not, keep kneading.",
+      "Lightly grease a large bowl with oil or nonstick spray– just use the same bowl you used for the dough. Place the dough in the bowl, turning it to coat all sides in the oil. Cover the bowl with aluminum foil, plastic wrap, or a clean kitchen towel. Allow the dough to rise at room temperature for 60-90 minutes or until double in size. (Tip: For the warm environment on a particularly cold day, heat your oven to 150°F (66°C). Turn the oven off, place the dough inside, and keep the door slightly ajar. This will be a warm environment for your dough to rise. After about 30 minutes, close the oven door to trap the air inside with the rising dough. When it's doubled in size, remove from the oven.)",
+      "Preheat oven to 475°F (246°C). Allow it to heat for at least 15-20 minutes as you shape the pizza. Lightly grease baking sheet or pizza pan with nonstick spray or olive oil. Sprinkle lightly with cornmeal, which gives the crust extra crunch and flavor. Highly recommended.",
+      "Shape the dough: When the dough is ready, punch it down to release any air bubbles. Divide the dough in half. (If not making 2 pizzas, freeze half of the dough for another time– see freezing instructions below.) On a lightly floured work surface using lightly floured hands or rolling pin, gently flatten the dough into a disc. Place on prepared pan and, using lightly floured hands, stretch and flatten the disc into a 12-inch circle. Lift the edge of the dough up to create a lip around the edges. I simply pinch the edges up to create the rim. If using a pizza stone, place the dough directly on baker's peels dusted with cornmeal.",
+      "Cover dough lightly with plastic wrap or a clean kitchen towel and allow to rest for a few minutes as you prepare your pizza toppings. I suggest pepperoni & green peppers or jalapeño slices, extra cheese pizza, Hawaiian pizza, classic margherita pizza, spinach artichoke white pizza, or homemade BBQ chicken pizza.",
+      "Top & bake the pizza: To prevent the filling from making your pizza crust soggy, brush the top lightly with olive oil. Using your fingers, push dents into the surface of the dough to prevent bubbling. Top with your favorite toppings and bake for 12-15 minutes.",
+      "Slice hot pizza and serve immediately. Cover leftover pizza tightly and store in the refrigerator. Reheat as you prefer. Baked pizza slices can be frozen up to 3 months."
+    ],
+    "notes": [
+      "Freezing Instructions: This recipe yields two 12-inch pizzas. After the pizza dough rises and you divide the dough in half (step 5), you can freeze one of the balls of dough to make pizza at a later time. Or you can simply freeze both balls of dough separately. Lightly coat all sides of the dough ball(s) with nonstick spray or olive oil. Place the dough ball(s) into individual zipped-top bag(s) and seal tightly, squeezing out all the air. Freeze for up to 3 months. To thaw, place the frozen pizza dough in the refrigerator for about 8 hours or overnight. When ready to make pizza, remove the dough from the refrigerator and allow to rest for 30 minutes on the counter. Continue with step 5.",
+      "Overnight/All Day Instructions: Prepare the dough through step 3, but allow the dough to rise for 8-12 hours in the refrigerator. (If it needs to be in the refrigerator for longer, use cooler water in the dough which will slow the dough's rise and allow for more time.) The slow rise gives the pizza dough wonderful flavor! When ready, continue with step 5. If the dough didn't quite double in size overnight, let it sit at room temperature for 30-45 minutes before punching down (step 5)."
+    ],
+    "nutrition": {},
+    "source": "https://sallysbakingaddiction.com/homemade-pizza-crust-recipe/"
+  },
+  {
+    "title": "Tomato Risotto",
+    "category": "Wednesday",
+    "prep_time": null,
+    "cook_time": null,
+    "servings": "2 2/3 to 4 servings (Scaled 2/3x)",
+    "ingredients": [
+      {
+        "name": "extra virgin olive oil",
+        "amount": "3 tablespoons plus more",
+        "department": "Pantry"
+      },
+      {
+        "name": "onion",
+        "amount": "2/3 large",
+        "department": "Produce"
+      },
+      {
+        "name": "arborio rice",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "carnaroli rice",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "garlic",
+        "amount": "1 1/3 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "white wine",
+        "amount": "1/3 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "diced ripe red tomatoes",
+        "amount": "1 1/3 cups",
+        "department": "Produce"
+      },
+      {
+        "name": "vegetable broth",
+        "amount": "2 cups boiling",
+        "department": "Pantry"
+      },
+      {
+        "name": "grated pecorino",
+        "amount": "1/3 cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "grated parmesan",
+        "amount": "1/3 cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "medium tomatoes",
+        "amount": "2 2/3",
+        "department": "Produce"
+      },
+      {
+        "name": "parsley",
+        "amount": "chopped for garnish",
+        "department": "Produce"
+      },
+      {
+        "name": "basil",
+        "amount": "snipped for garnish",
+        "department": "Produce"
+      }
+    ],
+    "directions": [
+      "Put 3 tablespoons olive oil in a heavy-bottomed saucepan over medium-high heat, then add the onion, and season generously with salt. Add pepper to taste, and cook until softened, about 5 minutes.",
+      "Add the rice and cook the onions, stirring, until the onions are barely brown, about 2 minutes. Add red-pepper flakes, garlic, white wine and diced tomatoes, and cook until most of the liquid has evaporated, about 5 minutes more.",
+      "Add 2 cups boiling water and adjust the heat to a brisk simmer. Cook for 5 to 6 minutes, stirring well with a wooden spoon every minute or so.",
+      "When the liquid is absorbed, add remaining 1 cup water and continue to cook for another 5 minutes, until the rice is cooked, but the grains are still firm. Taste and adjust the seasoning, adding another splash of water if necessary to loosen the mixture. Turn off the heat, stir in the pecorino and 2 more tablespoons olive oil.",
+      "Transfer to a low, wide serving bowl. Surround the rice with tomato slices and season them with salt and pepper. Sprinkle with parsley and basil. Pass more grated cheese at the table."
+    ],
+    "notes": [],
+    "nutrition": {
+      "Trans Fat": "0 grams",
+      "Fat": "9 grams",
+      "Calories": "345",
+      "Saturated Fat": "3 grams",
+      "Unsaturated Fat": "6 grams",
+      "Sodium": "975 milligrams",
+      "Sugar": "6 grams",
+      "Fiber": "5 grams",
+      "Carbohydrate": "52 grams",
+      "Protein": "10 grams"
+    },
+    "source": "https://cooking.nytimes.com/recipes/1020378-tomato-risotto?smid=ck-recipe-iOS-share"
+  },
+  {
+    "title": "Lemon-Parm Chicken, Quinoa, & Kale Salad",
+    "category": "Tuesday",
+    "prep_time": null,
+    "cook_time": "~25 minutes",
+    "servings": "Serves 4 to 6",
+    "ingredients": [
+      {
+        "name": "extra-virgin olive oil",
+        "amount": "1/2 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "1/2 cup",
+        "department": "Produce"
+      },
+      {
+        "name": "dijon mustard",
+        "amount": "1 heaping tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "honey",
+        "amount": "2 teaspoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "uncooked quinoa",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "chopped kale",
+        "amount": "1 (16-ounce) bag",
+        "department": "Produce"
+      },
+      {
+        "name": "rotisserie chicken",
+        "amount": "1 cooked",
+        "department": "Meat"
+      },
+      {
+        "name": "shredded carrots",
+        "amount": "1 (10-ounce) bag",
+        "department": "Produce"
+      },
+      {
+        "name": "grated parmesan",
+        "amount": "1 cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "golden raisins",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "dried cranberries",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "roasted almonds",
+        "amount": "1 cup chopped",
+        "department": "Pantry"
+      },
+      {
+        "name": "pepitas",
+        "amount": "1 cup chopped",
+        "department": "Pantry"
+      },
+      {
+        "name": "pistachios",
+        "amount": "1 cup chopped",
+        "department": "Pantry"
+      },
+      {
+        "name": "fresh parsley",
+        "amount": "1 cup chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "fresh basil",
+        "amount": "1 cup chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "fresh cilantro",
+        "amount": "1 cup chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "lemon",
+        "amount": "additional for serving",
+        "department": "Produce"
+      }
+    ],
+    "directions": [
+      "To make the lemon vinaigrette, add all ingredients (1/2 cup extra-virgin olive oil, 1/2 cup lemon juice, 1 heaping tablespoon Dijon mustard, 2 teaspoons honey, 1/2 teaspoon kosher salt, 1/4 teaspoon dried thyme or oregano, 1/4 teaspoon garlic powder, and several grinds of black pepper)to a large jar and shake vigorously until combined. Adjust seasoning to taste. (As always, that is the most important part of making a dressing — my perfect dressing is not the same as yours! Add more vinegar to make it more acidic, more honey to make it sweeter, more oil to make it thicker and less acidic, more salt to make the flavors pop, etc.) Dressing will keep in the fridge for up to 10 days.",
+      "To make the quinoa, add 1 cup uncooked quinoa and 1 1/2 cups water (or any kind of stock) to a small pot. Bring to a boil, then reduce to low heat, cover, and cook for 13 to 15 minutes, until all of the liquid has been absorbed. Remove from heat but keep the lid on for an additional 5 minutes. Fluff with a fork. You'll use 2 cups of COOKED quinoa in this recipe and have about a cup left over. Let the leftovers cool completely then store them in an airtight container in the fridge for later use this week (see notes for ideas).",
+      "Add 16 ounces chopped kale to a large bowl and season with a big pinch of salt and pepper. Use your hands to massage the kale until it JUST starts to feel damp — so squeeze it between your fists about 10 times. If you come across any pieces of thick stem while you're massaging, discard them.",
+      "Now let's tackle that rotisserie chicken. Pull the thighs/legs and wings off, store them in the refrigerator in an airtight container, and use them for another meal within 4 days. Pull the breast meat off (I discard the skin but you can shred it in with the meat if you'd like!), shred it finely, and add the meat right on top of the kale. Add 2 cups cooked quinoa, 1 bag shredded carrots, 1 cup grated Parmesan cheese, 1 cup golden raisins, and your desired amount of dressing. (If I'm cooking this salad for dinner/to serve immediately, I use almost all of the dressing, about 1/3 cup! If I'm meal prepping it for lunches, I go lighter with the dressing initially then add a little more to each serving when I'm ready to eat it.)",
+      "Toss to combine. Add more dressing as needed until your greens are coated to your liking. Divide the salad between four to six bowls, and garnish with more Parm and a sprinkle of chopped nuts. I love lemon so much that I serve each serving of salad with a lemon wedge for squeezing over top!",
+      "(PS, I add the nuts at the end so that they don't go into the big salad and get soggy in the fridge, but this is personal preference!)"
+    ],
+    "notes": [],
+    "nutrition": {},
+    "source": "https://whattocook.substack.com/p/lemon-parm-chicken-quinoa-and-kale?r=j0g6g&utm_medium=ios&triedRedirect=true"
+  },
+  {
+    "title": "Grilled Tofu Salad",
+    "category": "Tuesday",
+    "prep_time": null,
+    "cook_time": null,
+    "servings": "4 servings",
+    "ingredients": [
+      {
+        "name": "neutral oil",
+        "amount": "for greasing grates",
+        "department": "Pantry"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "2 tablespoons",
+        "department": "Produce"
+      },
+      {
+        "name": "white miso",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "garlic",
+        "amount": "1 teaspoon minced",
+        "department": "Produce"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "amount": "6 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "sourdough bread",
+        "amount": "4 slices",
+        "department": "Bakery"
+      },
+      {
+        "name": "country bread",
+        "amount": "4 slices",
+        "department": "Bakery"
+      },
+      {
+        "name": "firm tofu",
+        "amount": "1 pound",
+        "department": "Produce"
+      },
+      {
+        "name": "zucchini",
+        "amount": "1 pound (2 medium)",
+        "department": "Produce"
+      },
+      {
+        "name": "snap peas",
+        "amount": "4 ounces",
+        "department": "Produce"
+      },
+      {
+        "name": "mixed herbs",
+        "amount": "1/2 cup chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "parsley",
+        "amount": "chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "dill",
+        "amount": "chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "chives",
+        "amount": "chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "scallions",
+        "amount": "chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "parmesan",
+        "amount": "for garnish",
+        "department": "Dairy"
+      }
+    ],
+    "directions": [
+      "Heat grill to medium and grease grates with neutral oil. In a small bowl, combine the lemon juice, miso, garlic and 2 tablespoons of water and whisk, mashing the miso until it dissolves. While whisking constantly, slowly drizzle in 1/4 cup of the olive oil; season with salt and pepper.",
+      "Brush both sides of the bread with the remaining 2 tablespoons olive oil. Season tofu and zucchini with salt and pepper, then brush 1/4 cup of the lemon-miso dressing evenly all over both. Grill, turning occasionally, until bread is toasted, tofu is nicely charred and zucchini is tender, about 5 minutes for the bread and 8 minutes for the tofu and zucchini.",
+      "Transfer the tofu and zucchini to a cutting board; slice the tofu crosswise 1-inch-thick and chop the zucchini into 1-inch pieces.",
+      "Arrange the grilled tofu and zucchini on a large serving platter and drizzle over 2 tablespoons of the dressing. Add snap peas and herbs to the remaining dressing and toss to evenly coat. Scatter the mixture all over the salad and shave some cheese on top, if using. Serve with grilled bread on the side."
+    ],
+    "notes": [],
+    "nutrition": {
+      "Trans Fat": "0 grams",
+      "Fat": "37 grams",
+      "Calories": "530",
+      "Saturated Fat": "5 grams",
+      "Unsaturated Fat": "30 grams",
+      "Sodium": "778 milligrams",
+      "Sugar": "7 grams",
+      "Fiber": "8 grams",
+      "Carbohydrate": "30 grams",
+      "Protein": "27 grams"
+    },
+    "source": "https://cooking.nytimes.com/recipes/1024033-grilled-tofu-salad?campaign_id=222&emc=edit_veg_20230629&instance_id=96337&nl=the-veggie&regi_id=80108122&segment_id=137988&te=1&user_id=6a4d7680714466f6e018264abe0b2e0e"
+  },
+  {
+    "title": "Beef Basil Bowls with Coconut-Ginger Rice",
+    "category": "Sunday Meal Prep",
+    "prep_time": null,
+    "cook_time": "30 minutes",
+    "servings": "Serves 4-6",
+    "ingredients": [
+      {
+        "name": "white rice",
+        "amount": "1 1/2 cups",
+        "department": "Pantry"
+      },
+      {
+        "name": "coconut milk",
+        "amount": "1 (14.5 ounce) can",
+        "department": "Pantry"
+      },
+      {
+        "name": "honey",
+        "amount": "1 tablespoon plus 1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "ginger",
+        "amount": "1-inch piece",
+        "department": "Produce"
+      },
+      {
+        "name": "smooth peanut butter",
+        "amount": "1/3 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "soy sauce",
+        "amount": "1/4 cup plus 3 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "lime",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "rice wine vinegar",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "sriracha",
+        "amount": "1 to 2 tablespoons plus 1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "sambal oelek",
+        "amount": "1 to 2 tablespoons plus 1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "sesame oil",
+        "amount": "1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "yellow onion",
+        "amount": "1 medium",
+        "department": "Produce"
+      },
+      {
+        "name": "ground beef",
+        "amount": "1 pound",
+        "department": "Meat"
+      },
+      {
+        "name": "garlic",
+        "amount": "3 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "rice vinegar",
+        "amount": "3 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "fish sauce",
+        "amount": "1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "basil leaves",
+        "amount": "1/2 cup finely chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "cilantro",
+        "amount": "1/2 cup finely chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "mango",
+        "amount": "chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "nectarines",
+        "amount": "chopped",
+        "department": "Produce"
+      },
+      {
+        "name": "cucumber",
+        "amount": "diced",
+        "department": "Produce"
+      },
+      {
+        "name": "carrot",
+        "amount": "shredded",
+        "department": "Produce"
+      },
+      {
+        "name": "avocado",
+        "amount": "thinly sliced",
+        "department": "Produce"
+      },
+      {
+        "name": "bell pepper",
+        "amount": "thinly sliced",
+        "department": "Produce"
+      },
+      {
+        "name": "fresh mint leaves",
+        "amount": "for topping",
+        "department": "Produce"
+      },
+      {
+        "name": "roasted peanuts",
+        "amount": "for topping",
+        "department": "Pantry"
+      },
+      {
+        "name": "cashews",
+        "amount": "for topping",
+        "department": "Pantry"
+      },
+      {
+        "name": "toasted coconut",
+        "amount": "for topping",
+        "department": "Pantry"
+      },
+      {
+        "name": "toasted sesame seeds",
+        "amount": "for topping",
+        "department": "Pantry"
+      },
+      {
+        "name": "lime wedges",
+        "amount": "for serving",
+        "department": "Produce"
+      }
+    ],
+    "directions": [
+      "To cook rice in an InstantPot: Use 1 1/2 cups rice, 1 can coconut milk, but only 1/2 cup water. Cook for 5 minutes (along with the other ingredients), then allow the pressure to naturally release for 10 minutes. I love cooking rice in the IP!",
+      "Gimme some greens: Add steamed spinach! Once the time is up on the rice, stir it, then add three big handfuls of spinach right on top, cover, and let it sit for 10 minutes. It'll steam in the residual heat!",
+      "Oh, another greens addition idea! Finely chop a few handfuls of any dark leafy green — spinach, kale, chard — and stir it into the beef while cooking it.",
+      "My current hyper-fixation salad would be great on the side if you want to bulk this up: Cucumber, pepper, avocado salad.",
+      "Save time: Use steam-in-bag frozen rice instead of making coconut rice.",
+      "Feeding kids: You can leave the sriracha out of the sauce! Just add sriracha to the table and let people who like spice drizzle it on their bowls.",
+      "Make ahead: The Thai basil beef, coconut rice, and peanut sauce can all be cooked up to 3 days ahead of when you plan to eat! Store them separately in airtight containers in the fridge. The peanut sauce will thicken as it sits — stir in splashes of warm water to loosen it up before serving. Reheat the beef and rice on the stovetop, in the oven (in any oven-safe dish for a few minutes at 300°F until warm), or in the microwave.",
+      "Freezer-friendly: Both the rice and beef freeze beautifully for up to 3 months! In both cases, let the dish cool completely then transfer leftovers to a Ziploc bag (either one gallon-size bag or multiple smaller bags). To reheat frozen rice, chip off however much you want to eat and add it to a microwave-safe bowl. Top the bowl with plastic wrap or a reusable, microwave-safe lid or plate. Microwave for 2 to 3 minutes, or until warmed through. Careful when you're taking the top off — there will be steam! For the beef, let it thaw overnight in the fridge then reheat it. Doubling the beef to freeze half would be a very good idea!",
+      "Love your leftovers: Leftover beef and rice will be good for up to 3 days stored in the fridge. With them, you could make lettuce wraps, filling leaves of Bibb, iceberg, or little gem lettuce with leftover beef, rice, kimchi, and toppings! Drizzle with leftover peanut sauce! Leftover peanut sauce would also be good on any roasted veggies (I LOVE it on roasted broccoli, Brussels sprouts, and cauliflower), and will keep in the fridge for at least a week.",
+      "Dairy-free/gluten-free/nut-free: It's already dairy free! To avoid gluten, use tamari or coconut aminos instead of soy sauce. To avoid nuts, use a seed butter like sunflower butter or tahini and choose your toppings carefully!",
+      "Vegetarian: Swap the beef for a plant-based ground meat alternative. Or tofu! Make crispy tofu however you like to make it. One idea: squeeze out as much moisture as possible over the sink. Heat 2 tbsp oil over high heat. Crumble the tofu in and cook until crispy. Then add all of the same sauces that I added to the beef!",
+      "Jasmine rice: Any kind of white rice will work! Brown rice would work too but you'll need to increase the water to 1 1/2 cups as well as the cook time (check the bag of your rice for exact time).",
+      "Coconut milk: Coconut cream will also work, or omit and cook with all water if you can't find coconut milk."
+    ],
+    "notes": [],
+    "nutrition": {},
+    "source": "https://whattocook.substack.com/p/beef-basil-bowls-with-coconut-ginger?utm_campaign=posts-open-in-app&triedRedirect=true"
+  },
+  {
+    "title": "Saucy Chicken and Cabbage Satay Bowls",
+    "category": "Sunday",
+    "prep_time": "5 minutes",
+    "cook_time": "25 minutes",
+    "servings": "Serving: 1",
+    "ingredients": [
+      {
+        "name": "sesame oil",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "avocado oil",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "coleslaw mix",
+        "amount": "2 (10- to 12-ounce) bags",
+        "department": "Produce"
+      },
+      {
+        "name": "shredded cabbage",
+        "amount": "2 (10- to 12-ounce) bags",
+        "department": "Produce"
+      },
+      {
+        "name": "sliced mushrooms",
+        "amount": "1 (8-ounce) container",
+        "department": "Produce"
+      },
+      {
+        "name": "scallions",
+        "amount": "1 bunch",
+        "department": "Produce"
+      },
+      {
+        "name": "ground chicken",
+        "amount": "1 pound",
+        "department": "Meat"
+      },
+      {
+        "name": "coconut milk",
+        "amount": "2/3 of a can",
+        "department": "Pantry"
+      },
+      {
+        "name": "cilantro",
+        "amount": "1 bunch",
+        "department": "Produce"
+      },
+      {
+        "name": "ginger",
+        "amount": "1-inch piece",
+        "department": "Produce"
+      },
+      {
+        "name": "garlic",
+        "amount": "2 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "low-sodium soy sauce",
+        "amount": "3 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "regular soy sauce",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "creamy peanut butter",
+        "amount": "1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "fish sauce",
+        "amount": "1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "sriracha",
+        "amount": "1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "rice vinegar",
+        "amount": "2 teaspoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "lime juice",
+        "amount": "juice of 1/2 lime",
+        "department": "Produce"
+      },
+      {
+        "name": "honey",
+        "amount": "1 teaspoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "rice",
+        "amount": "for serving",
+        "department": "Pantry"
+      },
+      {
+        "name": "peanuts",
+        "amount": "for garnish",
+        "department": "Pantry"
+      },
+      {
+        "name": "sesame seeds",
+        "amount": "for garnish",
+        "department": "Pantry"
+      }
+    ],
+    "directions": [
+      "In your largest skillet (or a large pot), warm 1 tablespoon oil over medium-high heat. Add 2 bags coleslaw mix, 8 ounces chopped mushrooms, and 1 thinly sliced bunch of scallions (both the white and green parts) and cook for 3 to 5 minutes, until the cabbage and mushrooms are just beginning to soften. Scooch everything over to one half of the skillet. Warm the remaining 1 tablespoon oil in the other empty half of the skillet and add 1 pound ground chicken. Let the chicken cook for 2 to 3 minutes undisturbed, then start flipping and stirring it, using a spatula to break the chicken up into tiny pieces as it cooks — no big chunks allowed. Continue stirring the cabbage occasionally as you cook the chicken.",
+      "Once the chicken is cooked through (after about 8 to 10 minutes), stir it together with the cabbage. If there is still liquid in the skillet, crank the heat up to high and keep stirring until it's all evaporated.",
+      "Reduce the heat back down to medium-high, season everything with a big pinch of kosher salt, then stir in the remaining ingredients: 2/3 of a can of coconut milk, 1 bunch finely chopped fresh cilantro, a grated 1-inch piece of ginger, 2 grated garlic cloves (I use a microplane to grate my ginger and garlic directly into the skillet), 3 tablespoons low-sodium soy sauce, 1 tablespoon creamy peanut butter, 1 tablespoon fish sauce, 1 tablespoon sriracha, 2 teaspoons rice vinegar, 1 teaspoon honey, 3/4 teaspoon curry powder, and 1/4 teaspoon ground cumin.",
+      "Cook on medium-high for 3 to 5 minutes, until the liquid has thickened and is clinging to the chicken and vegetables. If it's still really liquidy after 5 minutes, crank the heat up to high, stir frequently, and it'll thicken up quickly. As always, taste and adjust seasonings until it's perfect (you could add a pinch or two more salt if the flavors need to pop more, some lime juice or more vinegar for extra tang, honey for more sweetness, sriracha for spice, etc.!).",
+      "Serve over rice, if you'd like, or just by itself! Garnish with sriracha, peanuts, and sesame seeds to make it look less like beige slop, but either way, who cares, it's delicious!"
+    ],
+    "notes": [],
+    "nutrition": {},
+    "source": null
+  },
+  {
+    "title": "Easy Mexican Shredded Chicken",
+    "category": "Sunday Meal Prep",
+    "prep_time": "5 mins",
+    "cook_time": "30 mins",
+    "servings": "4 servings",
+    "ingredients": [
+      {
+        "name": "boneless skinless chicken thighs",
+        "amount": "6",
+        "department": "Meat"
+      },
+      {
+        "name": "olive oil",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "chipotle salsa",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "store bought salsa",
+        "amount": "1 cup",
+        "department": "Pantry"
+      }
+    ],
+    "directions": [
+      "For a slow cooker (5-6 hours)",
+      "Season the chicken thighs with salt and pepper on both sides.",
+      "Add the chicken into a slow cooker along with the olive oil and salsa. Turn to high heat and cook for 5-6 hours until the chicken is falling apart. Using 2 forks, shred the chicken while still in the slow cooker and let it rest in the salsa before serving.",
+      "For a Dutch Oven (30 minutes)",
+      "Season the chicken thighs with salt and pepper on both sides.",
+      "Place a large skillet with olive oil over high heat and let the oil heat for a moment. Using a pair of tongs, add the chicken to the skillet and sear the chicken on both sides for 3 minutes each so that each side is golden brown.",
+      "Add the salsas to the skillet and cover the skillet with a tight fitting lid. Reduce the heat to medium and let the chicken cook for 25-30 minutes.",
+      "After 20 minutes, using a pair of tongs, flip the chicken over to the over side and continue to cook for another 10 minutes. Turn the heat off and using 2 forks, shred the chicken and then use as needed.",
+      "For an Instant Pot",
+      "Season the chicken thighs with salt and pepper on both sides.",
+      "Turn an instant pot onto the saute setting. Add the olive oil and let the oil heat for a moment. Using a pair of tongs, add the chicken to the instant pot and sear the chicken on both sides for 3 minutes each so that each side is golden brown. Add the salsa on top, close the lid and make sure it's sealed, and set the instant pot to poultry. Let the chicken cook and remove once the instant pot is done. Shred with 2 forks and serve as needed."
+    ],
+    "notes": [],
+    "nutrition": {
+      "Calories": "282kcal | Carbohydrates: 4g | Protein: 34g | Fat: 14g | Saturated Fat: 3g | Polyunsaturated Fat: 2g | Monounsaturated Fat: 8g | Trans Fat: 0.03g | Cholesterol: 161mg | Sodium: 577mg | Potassium: 583mg | Fiber: 1g | Sugar: 2g | Vitamin A: 353IU | Vitamin C: 1mg | Calcium: 34mg | Iron: 2mg"
+    },
+    "source": "https://whatsgabycooking.com/easy-mexican-shredded-chicken/"
+  },
+  {
+    "title": "Ranch Chicken Meal Prep",
+    "category": "Sunday Meal Prep",
+    "prep_time": "20 mins",
+    "cook_time": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "name": "russet potatoes",
+        "amount": "2 lbs",
+        "department": "Produce"
+      },
+      {
+        "name": "grated parmesan",
+        "amount": "1/3 cup",
+        "department": "Dairy"
+      },
+      {
+        "name": "cooking oil",
+        "amount": "3 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "broccoli florets",
+        "amount": "1 lb",
+        "department": "Produce"
+      },
+      {
+        "name": "boneless skinless chicken breast",
+        "amount": "1 lb",
+        "department": "Meat"
+      }
+    ],
+    "directions": [
+      "Preheat the oven to 400ºF. Clean and dice the potatoes into ¾\" pieces.",
+      "In a small bowl, combine the Parmesan, garlic powder, paprika, and ¼ tsp salt. Place the diced potatoes in a bowl, drizzle with 1 Tbsp cooking oil and the seasoned Parmesan, then toss until evenly coated.",
+      "Spread the potatoes out over a parchment-lined baking sheet then transfer to the oven. Roast for 30 minutes, or until golden brown and crispy, stirring once halfway through.",
+      "Place the broccoli florets in a bowl and drizzle with 1 Tbsp cooking, and add a ¼ tsp salt and pepper. Toss until the broccoli is evenly coated.",
+      "Spread the broccoli out onto a parchment-lined baking sheet and roast in the preheated oven for about 20 minutes, or until browned on the edges, stirring once halfway through.",
+      "While the vegetables are roasting, prepare the chicken. Fillet the chicken breast into two thinner pieces to help them cook faster and more evenly. Season both sides of the chicken with garlic herb seasoning.",
+      "Heat a large skillet over medium. Once hot, add 1 Tbsp cooking oil and swirl to coat the surface. Add the chicken breasts and cook for about 5-6 minutes on each side or until well browned and cooked through.",
+      "Remove the chicken to a cutting board and let rest for five minutes. Sliced the chicken breast into strips.",
+      "Divide the roasted potatoes, broccoli, and sliced chicken between four meal prep containers. Fill four small dressing containers with 2 Tbsp ranch dressing each. Refrigerate the meal preps until ready to eat!"
+    ],
+    "notes": [],
+    "nutrition": {
+      "Calories": "486 kcal",
+      "Carbohydrates": "52 g",
+      "Protein": "35 g",
+      "Fat": "17 g",
+      "Sodium": "618 mg",
+      "Fiber": "8 g"
+    },
+    "source": "https://www.budgetbytes.com/ranch-chicken-meal-prep/"
+  },
+  {
+    "title": "Sheet-Pan Orange Tofu and Broccoli",
+    "category": "Monday",
+    "prep_time": null,
+    "cook_time": null,
+    "servings": "4 servings",
+    "ingredients": [
+      {
+        "name": "extra-firm tofu",
+        "amount": "1 14-oz block",
+        "department": "Produce"
+      },
+      {
+        "name": "cornstarch",
+        "amount": "3 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "broccoli",
+        "amount": "1 medium head",
+        "department": "Produce"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "amount": "2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "orange",
+        "amount": "1",
+        "department": "Produce"
+      },
+      {
+        "name": "scallions",
+        "amount": "2",
+        "department": "Produce"
+      },
+      {
+        "name": "garlic",
+        "amount": "5 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "low-sodium soy sauce",
+        "amount": "¼ cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "honey",
+        "amount": "1 Tbsp plus 1½ tsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "unseasoned rice vinegar",
+        "amount": "1 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "sriracha",
+        "amount": "1–2 tsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "toasted sesame oil",
+        "amount": "2 tsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "steamed jasmine rice",
+        "amount": "for serving",
+        "department": "Pantry"
+      },
+      {
+        "name": "toasted sesame seeds",
+        "amount": "for serving",
+        "department": "Pantry"
+      }
+    ],
+    "directions": [
+      "Preheat oven to 425°. Wrap one 14-oz. block extra-firm tofu, drained, in a few layers of paper towels and place on a rimmed baking sheet. Weigh down with something heavy, such as a cast-iron skillet, and let sit 10 minutes.",
+      "Unpack and unwrap tofu, then transfer to a medium bowl and tear into 1½\"–2\" pieces. Add 2 Tbsp. cornstarch and 1 tsp. Diamond Crystal or ½ tsp. Morton kosher salt; toss to coat. Transfer tofu to a large rimmed baking sheet and push to one side. Add 1 medium head of broccoli, crown cut into 2\"–3\" florets, stem peeled, cut into ¾\" pieces, to other side; season with salt and freshly ground pepper. Drizzle 2 Tbsp. extra-virgin olive oil over broccoli and tofu and toss to coat. Roast until broccoli is charred in spots and tofu is pale golden, 30–35 minutes.",
+      "Heat broiler. Broil broccoli and tofu until tofu is slightly darkened, about 3 minutes.",
+      "Meanwhile, whisk remaining 1 Tbsp. cornstarch and ¼ cup water in a small saucepan until cornstarch is dissolved. Add zest and juice of 1 orange, 2 scallions, white and pale green parts thinly sliced, 5 garlic cloves, finely grated, ¼ cup low-sodium soy sauce, 1 Tbsp. plus 1½ tsp. honey, 1 Tbsp. unseasoned rice vinegar, and 1–2 tsp. sriracha, depending on your heat preference, and whisk to combine. Place saucepan over medium-high heat and cook, whisking constantly, until glaze is bubbling around edges and thick and glossy, about 3 minutes. Remove from heat and stir in 2 tsp. toasted sesame oil.",
+      "Pour glaze over broccoli and tofu; toss to coat. Serve over steamed jasmine rice, topped with thinly sliced dark green parts of 2 scallions and toasted sesame seeds."
+    ],
+    "notes": [],
+    "nutrition": {},
+    "source": "https://www.bonappetit.com/recipe/sheet-pan-orange-tofu-and-broccoli"
+  },
+  {
+    "title": "Seared Tofu Banh Mi",
+    "category": "Monday",
+    "prep_time": "20 mins",
+    "cook_time": "20 mins",
+    "servings": "Serves 4",
+    "ingredients": [
+      {
+        "name": "extra firm tofu",
+        "amount": "1 14-ounce package",
+        "department": "Produce"
+      },
+      {
+        "name": "olive oil",
+        "amount": "for the pan plus 1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "baguette pieces",
+        "amount": "4",
+        "department": "Bakery"
+      },
+      {
+        "name": "mayo",
+        "amount": "good quality",
+        "department": "Pantry"
+      },
+      {
+        "name": "vegan mayo",
+        "amount": "good quality",
+        "department": "Pantry"
+      },
+      {
+        "name": "cilantro",
+        "amount": "a few sprigs per sandwich",
+        "department": "Produce"
+      },
+      {
+        "name": "sriracha",
+        "amount": "for serving",
+        "department": "Pantry"
+      },
+      {
+        "name": "daikon",
+        "amount": "1 small",
+        "department": "Produce"
+      },
+      {
+        "name": "carrots",
+        "amount": "2 small",
+        "department": "Produce"
+      },
+      {
+        "name": "cucumber",
+        "amount": "1/2 small",
+        "department": "Produce"
+      },
+      {
+        "name": "jalapeño",
+        "amount": "1/2",
+        "department": "Produce"
+      },
+      {
+        "name": "white wine vinegar",
+        "amount": "1/4 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "rice vinegar",
+        "amount": "1/4 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "tamari",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "lime",
+        "amount": "1/2",
+        "department": "Produce"
+      },
+      {
+        "name": "garlic",
+        "amount": "1 clove",
+        "department": "Produce"
+      },
+      {
+        "name": "ginger",
+        "amount": "1/2 teaspoon minced",
+        "department": "Produce"
+      }
+    ],
+    "directions": [
+      "Make ahead: Place the daikon, carrots, cucumbers, and jalapeños in a medium jar with the white wine vinegar, rice vinegar, sugar, and salt. If the liquids don't cover the veggies, add about 2 tablespoons water and more vinegar if necessary. Let chill for at least an hour, or store in the fridge for up to a week.",
+      "Drain the tofu and slice it into 1/2-inch slices. Place it on a towel and gently pat dry to remove excess water.",
+      "In a small bowl, whisk together the olive oil, tamari, lime juice and zest, garlic, ginger, and pepper.",
+      "Place the tofu in a shallow pan and pour the marinade on top. Flip the tofu to fully coat it, adding more tamari if necessary. Let the tofu marinate for at least 15 minutes.",
+      "Heat a nonstick skillet to medium-high heat. Add a little oil to the pan and place the tofu pieces with enough space between each so that they're not too crowded, working in batches if necessary. Without moving the tofu slices around too much, let them cook for a few minutes per side until they're deeply golden brown and caramelized around the edges. Remove from heat and season to taste.",
+      "Assemble sandwiches with the baguette, mayo, tofu slices, pickled veggies, and cilantro, and serve with sriracha."
+    ],
+    "notes": [
+      "For seared tofu, I like to use West Soy Extra Firm Tofu. I find it to be a bit less watery (and easier to work with) than other brands of firm tofu.",
+      "For the pickled veggies: if you can't find daikon, use a few red radishes or just skip it. If you're sensitive to spice, go light on the jalapeños.",
+      "Other ideas: add sautéed shiitake mushrooms or slices of avocado."
+    ],
+    "nutrition": {},
+    "source": "https://www.loveandlemons.com/banh-mi/"
+  },
+  {
+    "title": "Red Lentil Soup with Lemon",
+    "category": "Sunday",
+    "prep_time": null,
+    "cook_time": null,
+    "servings": "4 servings",
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "amount": "3 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "onion",
+        "amount": "1 large",
+        "department": "Produce"
+      },
+      {
+        "name": "garlic",
+        "amount": "2 cloves",
+        "department": "Produce"
+      },
+      {
+        "name": "tomato paste",
+        "amount": "1 tablespoon",
+        "department": "Pantry"
+      },
+      {
+        "name": "chicken broth",
+        "amount": "1 quart",
+        "department": "Pantry"
+      },
+      {
+        "name": "vegetable broth",
+        "amount": "1 quart",
+        "department": "Pantry"
+      },
+      {
+        "name": "red lentils",
+        "amount": "1 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "carrot",
+        "amount": "1 large",
+        "department": "Produce"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "juice of 1/2 lemon",
+        "department": "Produce"
+      },
+      {
+        "name": "fresh cilantro",
+        "amount": "3 tablespoons chopped",
+        "department": "Produce"
+      }
+    ],
+    "directions": [
+      "In a large pot, heat 3 tablespoons oil over high heat until hot and shimmering. Add onion and garlic, and sauté until golden, about 4 minutes.",
+      "Stir in tomato paste, cumin, salt, black pepper and chili powder or cayenne, and sauté for 2 minutes longer.",
+      "Add broth, 2 cups water, lentils and carrot. Bring to a simmer, then partially cover pot and turn heat to medium-low. Simmer until lentils are soft, about 30 minutes. Taste and add salt if necessary.",
+      "Using an immersion or regular blender or a food processor, purée half the soup then add it back to pot. Soup should be somewhat chunky.",
+      "Reheat soup if necessary, then stir in lemon juice and cilantro. Serve soup drizzled with good olive oil and dusted lightly with chili powder if desired."
+    ],
+    "notes": [],
+    "nutrition": {
+      "Fat": "1 gram",
+      "Calories": "204",
+      "Saturated Fat": "0 grams",
+      "Unsaturated Fat": "1 gram",
+      "Sodium": "210 milligrams",
+      "Sugar": "4 grams",
+      "Fiber": "7 grams",
+      "Carbohydrate": "38 grams",
+      "Protein": "13 grams"
+    },
+    "source": "https://cooking.nytimes.com/recipes/1016062-red-lentil-soup-with-lemon"
+  },
+  {
+    "title": "Classic Minestrone",
+    "category": "Sunday",
+    "prep_time": "30 mins",
+    "cook_time": "1 hr",
+    "servings": "Servings: 6",
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "amount": "2 tablespoons",
+        "department": "Pantry"
+      },
+      {
+        "name": "red onion",
+        "amount": "1 medium",
+        "department": "Produce"
+      },
+      {
+        "name": "carrots",
+        "amount": "2 medium",
+        "department": "Produce"
+      },
+      {
+        "name": "celery stalk",
+        "amount": "1 large",
+        "department": "Produce"
+      },
+      {
+        "name": "whole peeled tomatoes",
+        "amount": "1 can (14.5 ounces)",
+        "department": "Pantry"
+      },
+      {
+        "name": "potato",
+        "amount": "1 large",
+        "department": "Produce"
+      },
+      {
+        "name": "savoy cabbage",
+        "amount": "1/4 head",
+        "department": "Produce"
+      },
+      {
+        "name": "green cabbage",
+        "amount": "1/4 head",
+        "department": "Produce"
+      },
+      {
+        "name": "cannellini beans",
+        "amount": "1 can (15 ounces)",
+        "department": "Pantry"
+      },
+      {
+        "name": "green beans",
+        "amount": "1/2 pound",
+        "department": "Produce"
+      },
+      {
+        "name": "garlic",
+        "amount": "1 clove",
+        "department": "Produce"
+      },
+      {
+        "name": "fresh basil",
+        "amount": "1/4 cup thinly sliced",
+        "department": "Produce"
+      },
+      {
+        "name": "grated parmesan",
+        "amount": "3/4 cup",
+        "department": "Dairy"
+      }
+    ],
+    "directions": [
+      "Instructions Checklist",
+      "In a large pot, heat oil over medium. Add onion, carrots, celery, red-pepper flakes, rosemary, 1 1/2 teaspoons salt, and 1/4 teaspoon pepper. Cook, stirring occasionally, until onion begins to turn golden, 5 to 8 minutes.",
+      "Add tomatoes; cook until some of the liquid evaporates, 1 minute. Add potato, cabbage, cannellini beans, and 7 cups water; bring to a boil. Stir in green beans.",
+      "Reduce to a simmer, and cook until all the vegetables are tender, about 20 minutes. Season with salt and pepper; stir in garlic, if using, and basil. Serve sprinkled with Parmesan and, if using, torn basil. Drizzle with more oil, if desired."
+    ],
+    "notes": [],
+    "nutrition": {
+      "Fat": "8 g",
+      "Calories": "183 g",
+      "Fiber": "6 g",
+      "Protein": "8 g"
+    },
+    "source": "https://www.marthastewart.com/339891/classic-minestrone"
+  },
+  {
+    "title": "Bbq Tofu Sliders",
+    "category": "Thursday",
+    "prep_time": "10 mins",
+    "cook_time": "10 mins",
+    "servings": "Servings: 3",
+    "ingredients": [
+      {
+        "name": "firm tofu",
+        "amount": "14 oz block",
+        "department": "Produce"
+      },
+      {
+        "name": "extra firm tofu",
+        "amount": "14 oz block",
+        "department": "Produce"
+      },
+      {
+        "name": "cornstarch",
+        "amount": "1 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "cooking oil",
+        "amount": "2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "bbq sauce",
+        "amount": "1/4 cup plus 3 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "shredded cabbage slaw mix",
+        "amount": "1/2 lb (about 3 cups)",
+        "department": "Produce"
+      },
+      {
+        "name": "mayonnaise",
+        "amount": "1/3 cup",
+        "department": "Pantry"
+      },
+      {
+        "name": "honey",
+        "amount": "1/2 Tbsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "dijon mustard",
+        "amount": "1 tsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amount": "1 tsp",
+        "department": "Pantry"
+      },
+      {
+        "name": "buns",
+        "amount": "3",
+        "department": "Bakery"
+      }
+    ],
+    "directions": [
+      "OPTIONAL: Freeze the tofu at least a day before, then thaw before pressing. This gives the tofu a more firm and less jelly-like texture.",
+      "Remove the tofu from the package and place it on a baking sheet. Place a cutting board or a smaller baking sheet on top, then place something heavy on top, like a pot full of water, or a cast iron skillet. Allow the tofu to press for about 30 minutes to remove excess water. (If you previously froze the tofu, you can press for about half the time because the water comes out much more quickly.)",
+      "Once pressed, transfer the tofu to a cutting board and roughly chop into random 1/2-inch sized pieces. Place the chopped tofu in a bowl.",
+      "In a separate small bowl, stir together the smoked paprika, garlic powder, salt, and some freshly cracked pepper. Sprinkle this over the tofu, then gently stir the tofu until it is coated in the spices.",
+      "Add 1 tsp cornstarch to the tofu and gently fold until coated. Repeat two more times until 1 Tbsp cornstarch total has been added to the tofu.",
+      "Heat 2 Tbsp cooking oil in a large non-stick skillet over medium heat (cast-iron or teflon, your choice). Once the oil is very hot, add the tofu to the skillet. Let the tofu cook, stirring only occasionally, for about ten minutes, or until it appears firm and darkened on the outside edges.",
+      "Remove the tofu from the heat, add the 1/4 cup BBQ sauce, and stir to coat.",
+      "While the tofu is cooking, prepare the simple coleslaw. In a medium bowl stir together the mayonnaise, honey, Dijon, vinegar, salt, and pepper. Add the shredded cabbage coleslaw mix, then stir until it is coated in the dressing.",
+      "To serve the sliders, scoop about 1/3 of the BBQ tofu onto each bun, then drizzle each with an extra tablespoon of BBQ sauce. Finish each slider off with a heaping scoop of the simple coleslaw and finally, the top half of the bun. Enjoy!"
+    ],
+    "notes": [
+      "*Prepared coleslaw mix is simply shredded cabbage and carrots, undressed. This is one of the few prepared salad mixes that I buy because I generally only need a small amount and the smallest cabbage will yield 3-4 times what I need once shredded."
+    ],
+    "nutrition": {
+      "Serving": "1Serving ・ Calories: 612.1kcal ・ Carbohydrates: 43.07g ・ Protein: 19.4g ・ Fat: 41.13g ・ Sodium: 2593.83mg ・ Fiber: 3.97g"
+    },
+    "source": "https://www.budgetbytes.com/bbq-tofu-sliders/"
+  }
+]
