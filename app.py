@@ -392,7 +392,7 @@ with col:
             data=html_str,
             file_name="meal_plan.html",
             mime="text/html",
-            use_container_width=True
+            use_container_width=True 
         )
 
         st.markdown("</div>", unsafe_allow_html=True)
